@@ -35,6 +35,7 @@ gulp.task('default', function () {
 $ gulp //在工程目录下执行
 ```
 到目录~/Desktop/gulp_project/dist下查看结果，生成了两个文件（css/sprite.css和images/sprite.png）
+
 	    - css/sprite.css
 ```
 /*
