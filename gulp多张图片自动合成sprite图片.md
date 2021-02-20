@@ -1,4 +1,4 @@
-###Mac环境下gulp 多张图片自动合成sprite图片
+### Mac环境下gulp 多张图片自动合成sprite图片
 
 - 1、安装nodejs，直接到 [Nodejs官网](https://nodejs.org) 下载安装包，双击安装即可。
 
@@ -77,7 +77,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 ```
 		- 图片images/sprite.png 
 
-		![](https://raw.githubusercontent.com/imoowi/dev/main/%E6%9E%B6%E6%9E%84%E5%B8%88%E7%AC%94%E8%AE%B0/img/sprite.png)
+![](https://raw.githubusercontent.com/imoowi/dev/main/%E6%9E%B6%E6%9E%84%E5%B8%88%E7%AC%94%E8%AE%B0/img/sprite.png)
 
 - Demo下载地址:[https://pan.baidu.com/s/174Es9BS9I9bvSinPd3FqLw](https://pan.baidu.com/s/174Es9BS9I9bvSinPd3FqLw) 提取码: uvve
 
