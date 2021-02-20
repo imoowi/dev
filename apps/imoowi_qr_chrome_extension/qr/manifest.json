@@ -1,0 +1,14 @@
+{
+"name": "imoowi-二维码",
+"version": "1.0",
+"manifest_version":2,
+"description": "显示当前网页二维码，方便手机扫码",
+"browser_action": {
+	"default_icon": "icon.png",
+	"default_popup":"popup.html",
+	"default_title": "IMOOWI-二维码"
+},
+"permissions": [
+	"tabs"
+]
+}
