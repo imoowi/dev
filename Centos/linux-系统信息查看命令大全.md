@@ -3,8 +3,8 @@
 - 系统
 ```
 $ uname -a # 查看内核/操作系统/CPU信息
-$ head -n 1 /etc/issue # 查看操作系统版本
 $ cat /etc/redhat-release #查看操作系统版本
+$ head -n 1 /etc/issue # 查看操作系统版本
 $ cat /proc/cpuinfo # 查看CPU信息
 $ hostname # 查看计算机名
 $ lspci -tv # 列出所有PCI设备
