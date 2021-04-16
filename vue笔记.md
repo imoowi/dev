@@ -2,7 +2,7 @@
 # install vue-cli
 npm install --global vue-cli
 # create app
-npm vue init webpack yourapp
+vue init webpack yourapp
 # install dependencies
 cd yourapp
 cnpm i
