@@ -1,0 +1,12 @@
+2021/04/12 12:08:48 [error] 24#24: *82 FastCGI sent in stderr: "PHP message: PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /data/wwwroot/php/yii2/phpssdbadmin/iphp/loader.php on line 12PHP message: PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /data/wwwroot/php/yii2/phpssdbadmin/iphp/framework/App.php on line 57" while reading response header from upstream, client: 192.168.0.1, server: ssdb.i.com, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.0.5:9000", host: "ssdb.i.com"
+2021/04/12 12:08:48 [error] 24#24: *82 FastCGI sent in stderr: "PHP message: PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /data/wwwroot/php/yii2/phpssdbadmin/iphp/loader.php on line 12PHP message: PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /data/wwwroot/php/yii2/phpssdbadmin/iphp/framework/App.php on line 57" while reading response header from upstream, client: 192.168.0.1, server: ssdb.i.com, request: "GET /login HTTP/1.1", upstream: "fastcgi://192.168.0.5:9000", host: "ssdb.i.com"
+2021/04/12 12:08:48 [error] 24#24: *87 FastCGI sent in stderr: "PHP message: PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /data/wwwroot/php/yii2/phpssdbadmin/iphp/loader.php on line 12PHP message: PHP Deprecated:  Function get_magic_quotes_gpc() is deprecated in /data/wwwroot/php/yii2/phpssdbadmin/iphp/framework/App.php on line 57PHP message: PHP Fatal error:  Uncaught Error: Call to undefined function imagettftext() in /data/wwwroot/php/yii2/phpssdbadmin/app/classes/captcha/SimpleCaptcha.php:254
+Stack trace:
+#0 /data/wwwroot/php/yii2/phpssdbadmin/app/classes/captcha/SimpleCaptcha.php(133): SimpleCaptcha->WriteText()
+#1 /data/wwwroot/php/yii2/phpssdbadmin/app/controllers/captcha.php(21): SimpleCaptcha->CreateImage()
+#2 /data/wwwroot/php/yii2/phpssdbadmin/iphp/framework/App.php(166): CaptchaController->index()
+#3 /data/wwwroot/php/yii2/phpssdbadmin/iphp/framework/App.php(153): App::execute()
+#4 /data/wwwroot/php/yii2/phpssdbadmin/iphp/framework/App.php(80): App::_run()
+#5 /data/wwwroot/php/yii2/phpssdbadmin/index.php(9): App::run()
+#6 {main}
+  thrown in /data/wwwroot/php/yii2/phpssdbadmin/app/classes/captcha/SimpleCaptcha.php on line 254" while reading response header from upstream, client: 192.168.0.1, server: ssdb.i.com, request: "GET /captcha HTTP/1.1", upstream: "fastcgi://192.168.0.5:9000", host: "ssdb.i.com", referrer: "http://ssdb.i.com/login"

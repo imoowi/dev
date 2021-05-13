@@ -1,0 +1,2 @@
+2021/04/12 12:07:01 [error] 24#24: *14 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 192.168.0.1, server: blog.i.com, request: "GET / HTTP/1.1", upstream: "fastcgi://192.168.0.5:9000", host: "blog.i.com"
+2021/04/12 12:07:02 [error] 24#24: *14 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 192.168.0.1, server: blog.i.com, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://192.168.0.5:9000", host: "blog.i.com", referrer: "http://blog.i.com/"

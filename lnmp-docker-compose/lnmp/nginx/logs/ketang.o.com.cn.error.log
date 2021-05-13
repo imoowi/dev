@@ -1,0 +1,188 @@
+2021/04/30 10:14:02 [error] 22#22: *41 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: index/error in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Controller.php:151
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/ErrorHandler.php(109): yii\base\Module->runAction()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request: index/test in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Controller.php:151
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest()
+#3 /data/wwwroot/php/yii2/api.orthonline.com.cn/ketang/web/index.php(24): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/ketang/web/index.php(24): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'PHP_EXTRA_CONFIGURE_ARGS' => '--enable-fpm --with-fpm-user=www-data --with-fpm-group=www-data --disable-cgi',
+    'HOSTNAME' => 'b8660ffff2cd',
+    'PHP_INI_DIR' => '/usr/loca
+2021/04/30 10:14:02 [error] 22#22: *41 FastCGI sent in stderr: "64',
+    'PHP_VERSION' => '7.4.16',
+    'GPG_KEYS' => '42670A7FE4D0441C8E4632349E4FDC074A4EF02D 5A52880781F755608BF815FC910DEB46F53EA312',
+    'PHP_CPPFLAGS' => '-fstack-protector-strong -fpic -fpie -O2 -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64',
+    'PHP_ASC_URL' => 'https://www.php.net/distributions/php-7.4.16.tar.xz.asc',
+    'PHP_URL' => 'https://www.php.net/distributions/php-7.4.16.tar.xz',
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+    'PHPIZE_DEPS' => 'autoconf 		dpkg-dev 		file 		g++ 		gcc 		libc-dev 		make 		pkg-config 		re2c',
+    'PWD' => '/var/www/html',
+    'PHP_SHA256' => '1c16cefaf88ded4c92eed6a8a41eb682bb2ef42429deb55f1c4ba159053fb98b',
+    'USER' => 'www-data',
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_HOST' => 'ketang.o.com.cn',
+    'REDIRECT_STATUS' => '200',
+    'SERVER_NAME' => 'ketang.o.com.cn',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '172.18.0.6',
+    'REMOTE_PORT' => '56438',
+    'REMOTE_ADDR' => '172.18.0.1',
+    'SERVER_SOFTWARE' => 'nginx/1.19.2',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REQUEST_SCHEME' => 'http',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'DOCUMENT_ROOT' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/ketang/web',
+    'DOCUMENT_URI' => '/index.php',
+    'REQUEST_URI' => '/index/test',
+    'SCRIPT_NAME' => '/index.php',
+    'CONTENT_LENGTH' => '',
+    'CONTENT_TYPE' => '',
+    'REQUEST_METHOD' => 'GET',
+    'QUERY_STRING' => '',
+    'SCRIPT_FILENAME' => '/data/wwwroot/php/yii2/api.orthonline.co
+2021/04/30 10:14:58 [error] 22#22: *49 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: ketang.o.com.cn, request: "GET /ws:80 HTTP/1.1", upstream: "http://127.0.0.1:6003/ws:80", host: "ketang.o.com.cn"
+2021/04/30 10:15:13 [error] 22#22: *53 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: ketang.o.com.cn, request: "GET /ws:80 HTTP/1.1", upstream: "http://127.0.0.1:6003/ws:80", host: "ketang.o.com.cn"
+2021/04/30 10:15:19 [error] 22#22: *46 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: index/error in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Controller.php:151
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/ErrorHandler.php(109): yii\base\Module->runAction()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "live1/js/maps/swiper.min.js.map". in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/ketang/web/index.php(24): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/ketang/web/index.php(24): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'PHP_EXTRA_CONFIGURE_ARGS' => '--enable-fpm --with-fpm-user=www-data --with-fpm-group=www-data --disable-cgi',
+    'HOSTNAME' => 'b8660ffff2cd',
+    'PHP_INI_DIR' => '/usr/local/etc/php',
+    'HOME' => '/var/www',
+    'PHP_LDFLAGS' => '-Wl,-O1 -pie',
+    'PHP_CFLAGS' => '-fstack-
+2021/04/30 10:15:19 [error] 22#22: *46 FastCGI sent in stderr: "A4EF02D 5A52880781F755608BF815FC910DEB46F53EA312',
+    'PHP_CPPFLAGS' => '-fstack-protector-strong -fpic -fpie -O2 -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64',
+    'PHP_ASC_URL' => 'https://www.php.net/distributions/php-7.4.16.tar.xz.asc',
+    'PHP_URL' => 'https://www.php.net/distributions/php-7.4.16.tar.xz',
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+    'PHPIZE_DEPS' => 'autoconf 		dpkg-dev 		file 		g++ 		gcc 		libc-dev 		make 		pkg-config 		re2c',
+    'PWD' => '/var/www/html',
+    'PHP_SHA256' => '1c16cefaf88ded4c92eed6a8a41eb682bb2ef42429deb55f1c4ba159053fb98b',
+    'USER' => 'www-data',
+    'HTTP_COOKIE' => '_csrf=4e141f3a473d2c6bc247e15827eb1e2d393b5cdb6d61f8f3ad32f9bc9ea59248a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22mh5p7dhKQlZ8lQ9MWqODQ7C8yisnIZHq%22%3B%7D; __ad1mpin=1f36b07eef264bfa9f73badca8d207478a99bb2510139fa11ee071ec300582f2a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22__ad1mpin%22%3Bi%3A1%3Bi%3A43%3B%7D; PHPSESSID=66s84e3uiis9lcgptjc1k8lqtc',
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'no-cache',
+    'HTTP_PRAGMA' => 'no-cache',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_HOST' => 'ketang.o.com.cn',
+    'REDIRECT_STATUS' => '200',
+    'SERVER_NAME' => 'ketang.o.com.cn',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '172.18.0.6',
+    'REMOTE_PORT' => '56464',
+    'REMOTE_ADDR' => '172.18.0.1',
+    'SERVER_SOFTWARE' => 'nginx/1.19.2',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REQUEST_SCHEME' => 'http',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'DOCUMENT_ROOT' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/ketang/web',
+    'DOCUMENT_URI' => '/index.php',
+    'REQUEST_URI' => '/live1/js/maps/swiper.min.js.map',
+    'SCRIPT_NAME' => '/index.php',
+
+2021/04/30 10:20:50 [error] 22#22: *66 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: ketang.o.com.cn, request: "GET /ws:80 HTTP/1.1", upstream: "http://127.0.0.1:6003/ws:80", host: "ketang.o.com.cn"
+2021/04/30 10:20:50 [error] 22#22: *64 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\base\InvalidRouteException: Unable to resolve the request: index/error in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Controller.php:151
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/ErrorHandler.php(109): yii\base\Module->runAction()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\base\InvalidRouteException: Unable to resolve the request "live1/js/maps/swiper.min.js.map". in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Module.php:537
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/ketang/web/index.php(24): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/ketang/web/index.php(24): yii\base\Application->run()
+#2 {main}
+$_SERVER = [
+    'PHP_EXTRA_CONFIGURE_ARGS' => '--enable-fpm --with-fpm-user=www-data --with-fpm-group=www-data --disable-cgi',
+    'HOSTNAME' => 'b8660ffff2cd',
+    'PHP_INI_DIR' => '/usr/local/etc/php',
+    'HOME' => '/var/www',
+    'PHP_LDFLAGS' => '-Wl,-O1 -pie',
+    'PHP_CFLAGS' => '-fstack-
+2021/04/30 10:20:50 [error] 22#22: *64 FastCGI sent in stderr: "A4EF02D 5A52880781F755608BF815FC910DEB46F53EA312',
+    'PHP_CPPFLAGS' => '-fstack-protector-strong -fpic -fpie -O2 -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64',
+    'PHP_ASC_URL' => 'https://www.php.net/distributions/php-7.4.16.tar.xz.asc',
+    'PHP_URL' => 'https://www.php.net/distributions/php-7.4.16.tar.xz',
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin',
+    'PHPIZE_DEPS' => 'autoconf 		dpkg-dev 		file 		g++ 		gcc 		libc-dev 		make 		pkg-config 		re2c',
+    'PWD' => '/var/www/html',
+    'PHP_SHA256' => '1c16cefaf88ded4c92eed6a8a41eb682bb2ef42429deb55f1c4ba159053fb98b',
+    'USER' => 'www-data',
+    'HTTP_COOKIE' => '_csrf=4e141f3a473d2c6bc247e15827eb1e2d393b5cdb6d61f8f3ad32f9bc9ea59248a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22mh5p7dhKQlZ8lQ9MWqODQ7C8yisnIZHq%22%3B%7D; __ad1mpin=1f36b07eef264bfa9f73badca8d207478a99bb2510139fa11ee071ec300582f2a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22__ad1mpin%22%3Bi%3A1%3Bi%3A43%3B%7D; PHPSESSID=66s84e3uiis9lcgptjc1k8lqtc',
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36',
+    'HTTP_CACHE_CONTROL' => 'no-cache',
+    'HTTP_PRAGMA' => 'no-cache',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_HOST' => 'ketang.o.com.cn',
+    'REDIRECT_STATUS' => '200',
+    'SERVER_NAME' => 'ketang.o.com.cn',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '172.18.0.6',
+    'REMOTE_PORT' => '56544',
+    'REMOTE_ADDR' => '172.18.0.1',
+    'SERVER_SOFTWARE' => 'nginx/1.19.2',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REQUEST_SCHEME' => 'http',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'DOCUMENT_ROOT' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/ketang/web',
+    'DOCUMENT_URI' => '/index.php',
+    'REQUEST_URI' => '/live1/js/maps/swiper.min.js.map',
+    'SCRIPT_NAME' => '/index.php',
+
+2021/05/04 03:13:02 [error] 22#22: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: ketang.o.com.cn, request: "GET /ws:80 HTTP/1.1", upstream: "http://127.0.0.1:6003/ws:80", host: "ketang.o.com.cn"
+2021/05/07 02:14:17 [error] 23#23: *19 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: ketang.o.com.cn, request: "GET /ws:80 HTTP/1.1", upstream: "http://127.0.0.1:6003/ws:80", host: "ketang.o.com.cn"

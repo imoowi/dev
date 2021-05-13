@@ -45,3 +45,22 @@ $ docker push imoowi/php7.4:v3
 	https://hub.docker.com/repository/docker/imoowi/mysql5.6
 - ssdb
 	https://hub.docker.com/repository/docker/imoowi/ssdb
+
+### docker-compose 形式运行服务
+```
+cd lnmp
+```
+- 启动服务
+```
+
+docker-compose up -d
+```
+- 停止服务
+```
+docker-compose down
+```
+
+- 重启服务
+```
+docker-compose restart
+```

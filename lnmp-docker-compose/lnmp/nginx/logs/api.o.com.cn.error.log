@@ -1,0 +1,807 @@
+2021/04/18 06:46:20 [error] 22#22: *2 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Trait 'lhs\Yii2SaveRelationsBehavior\SaveRelationsTrait' not found in /data/wwwroot/php/yii2/api.orthonline.com.cn/common/models/GjdsPost.php on line 35" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET /admin/gjds/posts HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "api.o.com.cn"
+2021/04/18 06:46:56 [error] 22#22: *2 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Trait 'lhs\Yii2SaveRelationsBehavior\SaveRelationsTrait' not found in /data/wwwroot/php/yii2/api.orthonline.com.cn/common/models/GjdsPost.php on line 35" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET /admin/gjds/posts HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "api.o.com.cn"
+2021/04/18 06:46:59 [error] 22#22: *2 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Trait 'lhs\Yii2SaveRelationsBehavior\SaveRelationsTrait' not found in /data/wwwroot/php/yii2/api.orthonline.com.cn/common/models/GjdsPost.php on line 35" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET /admin/gjds/posts HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "api.o.com.cn"
+2021/04/18 06:47:09 [error] 22#22: *2 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Trait 'lhs\Yii2SaveRelationsBehavior\SaveRelationsTrait' not found in /data/wwwroot/php/yii2/api.orthonline.com.cn/common/models/GjdsPost.php on line 35" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET /admin/gjds/posts HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "api.o.com.cn", referrer: "http://api.o.com.cn/admin/index"
+2021/04/19 01:36:14 [error] 22#22: *99 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Trait 'lhs\Yii2SaveRelationsBehavior\SaveRelationsTrait' not found in /data/wwwroot/php/yii2/api.orthonline.com.cn/common/models/GjdsPost.php on line 35" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET /admin/gjds/posts HTTP/1.1", upstream: "fastcgi://172.18.0.3:9000", host: "api.o.com.cn", referrer: "http://api.o.com.cn/admin/index"
+2021/04/22 09:49:06 [error] 22#22: *49 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 09:50:32 [error] 22#22: *51 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 09:50:34 [error] 22#22: *51 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 09:50:35 [error] 22#22: *51 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 09:50:36 [error] 22#22: *51 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 09:50:54 [error] 22#22: *51 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 09:51:20 [error] 22#22: *51 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET /admin/ HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 09:53:44 [error] 22#22: *62 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 09:54:09 [error] 22#22: *62 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 09:54:33 [error] 22#22: *62 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 09:54:34 [error] 22#22: *62 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 09:55:00 [error] 24#24: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 09:55:09 [error] 24#24: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 09:58:23 [error] 24#24: *5 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 09:58:26 [error] 24#24: *5 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 09:58:28 [error] 24#24: *5 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 09:58:29 [error] 24#24: *5 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 09:58:42 [error] 24#24: *5 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 09:58:47 [error] 24#24: *5 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 09:58:48 [error] 24#24: *5 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 09:59:44 [error] 24#24: *5 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 10:42:26 [error] 24#24: *62 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 10:42:26 [error] 24#24: *62 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn", referrer: "http://api.o.com.cn/"
+2021/04/22 10:44:50 [error] 24#24: *66 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 10:44:52 [error] 24#24: *66 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 10:44:53 [error] 24#24: *66 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 12:44:38 [error] 23#23: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET /five27/default/init-form?id=1 HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 12:44:39 [error] 23#23: *1 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET /five27/default/init-form?id=1 HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 12:45:43 [error] 22#22: *1 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET /admin/ HTTP/1.1", upstream: "fastcgi://172.18.0.8:9000", host: "api.o.com.cn"
+2021/04/22 14:10:38 [error] 22#22: *15 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 14:11:38 [error] 22#22: *15 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 14:11:39 [error] 22#22: *15 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Cannot use 'Object' as class name as it is reserved in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Object.php on line 77" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 14:24:13 [error] 23#23: *15 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET /admin/ HTTP/1.1", upstream: "fastcgi://172.18.0.8:9000", host: "api.o.com.cn"
+2021/04/22 14:31:35 [error] 23#23: *20 FastCGI sent in stderr: "PHP message: PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.2.5". You are running 5.6.40. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/composer/platform_check.php on line 25" while reading response header from upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.8:9000", host: "api.o.com.cn"
+2021/04/22 14:37:31 [error] 24#24: *8 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/backend/web/index.php(28): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PHP_EXTRA_CONFIGURE_ARGS' => '--enable-fpm --with-fpm-user=www-data --with-fpm-group=www-data --disable-cgi',
+    'HOSTNAME' => '5b9a559bf06c',
+    'PHP_INI_DIR' => '/usr/local/etc/php',
+    'HOME' => '/var/www',
+    'PHP_LDFLAGS' => '-Wl,-O1 -pie',
+    'PHP_CFLAGS' => '-fstack-protector-strong -fpic -fpie -O2 -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64',
+    'PHP_MD5' => '',
+    'PHP_VERSION' => '7.4.11',
+    'GPG_KEYS' => '42670A7FE4D0441C8E4632349E4FDC074A4EF02D 5A52880781F755608BF815FC910DEB46F53EA312',
+    'PHP_CPPFLAGS' => '-fstack-protector-strong -fpic -
+2021/04/22 14:37:31 [error] 24#24: *8 FastCGI sent in stderr: "2%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D',
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_HOST' => 'api.o.com.cn',
+    'REDIRECT_STATUS' => '200',
+    'SERVER_NAME' => 'api.o.com.cn',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '172.18.0.5',
+    'REMOTE_PORT' => '63260',
+    'REMOTE_ADDR' => '172.18.0.1',
+    'SERVER_SOFTWARE' => 'nginx/1.19.2',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REQUEST_SCHEME' => 'http',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'DOCUMENT_ROOT' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web',
+    'DOCUMENT_URI' => '/admin/index.php',
+    'REQUEST_URI' => '/admin/index',
+    'SCRIPT_NAME' => '/admin/index.php',
+    'CONTENT_LENGTH' => '',
+    'CONTENT_TYPE' => '',
+    'REQUEST_METHOD' => 'GET',
+    'QUERY_STRING' => '',
+    'SCRIPT_FILENAME' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web/admin/index.php',
+    'FCGI_ROLE' => 'RESPONDER',
+    'PHP_SELF' => '/admin/index.php',
+    'REQUEST_TIME_FLOAT' => 1619102250.782406,
+    'REQUEST_TIME' => 1619102250,
+]" while reading upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET /admin/index HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 14:41:08 [error] 24#24: *16 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/backend/web/index.php(28): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PHP_EXTRA_CONFIGURE_ARGS' => '--enable-fpm --with-fpm-user=www-data --with-fpm-group=www-data --disable-cgi',
+    'HOSTNAME' => '5b9a559bf06c',
+    'PHP_INI_DIR' => '/usr/local/etc/php',
+    'HOME' => '/var/www',
+    'PHP_LDFLAGS' => '-Wl,-O1 -pie',
+    'PHP_CFLAGS' => '-fstack-protector-strong -fpic -fpie -O2 -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64',
+    'PHP_MD5' => '',
+    'PHP_VERSION' => '7.4.11',
+    'GPG_KEYS' => '42670A7FE4D0441C8E4632349E4FDC074A4EF02D 5A52880781F755608BF815FC910DEB46F53EA312',
+    'PHP_CPPFLAGS' => '-fstack-protector-strong -fpic 
+2021/04/22 14:41:08 [error] 24#24: *16 FastCGI sent in stderr: "2%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D',
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_HOST' => 'api.o.com.cn',
+    'REDIRECT_STATUS' => '200',
+    'SERVER_NAME' => 'api.o.com.cn',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '172.18.0.5',
+    'REMOTE_PORT' => '63332',
+    'REMOTE_ADDR' => '172.18.0.1',
+    'SERVER_SOFTWARE' => 'nginx/1.19.2',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REQUEST_SCHEME' => 'http',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'DOCUMENT_ROOT' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web',
+    'DOCUMENT_URI' => '/admin/index.php',
+    'REQUEST_URI' => '/admin/index',
+    'SCRIPT_NAME' => '/admin/index.php',
+    'CONTENT_LENGTH' => '',
+    'CONTENT_TYPE' => '',
+    'REQUEST_METHOD' => 'GET',
+    'QUERY_STRING' => '',
+    'SCRIPT_FILENAME' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web/admin/index.php',
+    'FCGI_ROLE' => 'RESPONDER',
+    'PHP_SELF' => '/admin/index.php',
+    'REQUEST_TIME_FLOAT' => 1619102466.57209,
+    'REQUEST_TIME' => 1619102466,
+]" while reading upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET /admin/index HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 14:41:25 [error] 24#24: *16 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/backend/web/index.php(28): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PHP_EXTRA_CONFIGURE_ARGS' => '--enable-fpm --with-fpm-user=www-data --with-fpm-group=www-data --disable-cgi',
+    'HOSTNAME' => '5b9a559bf06c',
+    'PHP_INI_DIR' => '/usr/local/etc/php',
+    'HOME' => '/var/www',
+    'PHP_LDFLAGS' => '-Wl,-O1 -pie',
+    'PHP_CFLAGS' => '-fstack-protector-strong -fpic -fpie -O2 -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64',
+    'PHP_MD5' => '',
+    'PHP_VERSION' => '7.4.11',
+    'GPG_KEYS' => '42670A7FE4D0441C8E4632349E4FDC074A4EF02D 5A52880781F755608BF815FC910DEB46F53EA312',
+    'PHP_CPPFLAGS' => '-fstack-protector-strong -fpic 
+2021/04/22 14:41:25 [error] 24#24: *16 FastCGI sent in stderr: "2%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D',
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_HOST' => 'api.o.com.cn',
+    'REDIRECT_STATUS' => '200',
+    'SERVER_NAME' => 'api.o.com.cn',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '172.18.0.5',
+    'REMOTE_PORT' => '63332',
+    'REMOTE_ADDR' => '172.18.0.1',
+    'SERVER_SOFTWARE' => 'nginx/1.19.2',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REQUEST_SCHEME' => 'http',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'DOCUMENT_ROOT' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web',
+    'DOCUMENT_URI' => '/admin/index.php',
+    'REQUEST_URI' => '/admin/index',
+    'SCRIPT_NAME' => '/admin/index.php',
+    'CONTENT_LENGTH' => '',
+    'CONTENT_TYPE' => '',
+    'REQUEST_METHOD' => 'GET',
+    'QUERY_STRING' => '',
+    'SCRIPT_FILENAME' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web/admin/index.php',
+    'FCGI_ROLE' => 'RESPONDER',
+    'PHP_SELF' => '/admin/index.php',
+    'REQUEST_TIME_FLOAT' => 1619102484.498083,
+    'REQUEST_TIME' => 1619102484,
+]" while reading upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET /admin/index HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "api.o.com.cn"
+2021/04/22 14:43:22 [error] 24#24: *24 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/backend/web/index.php(28): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PHP_EXTRA_CONFIGURE_ARGS' => '--enable-fpm --with-fpm-user=www-data --with-fpm-group=www-data --disable-cgi',
+    'HOSTNAME' => '5b9a559bf06c',
+    'PHP_INI_DIR' => '/usr/local/etc/php',
+    'HOME' => '/var/www',
+    'PHP_LDFLAGS' => '-Wl,-O1 -pie',
+    'PHP_CFLAGS' => '-fstack-protector-strong -fpic -fpie -O2 -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64',
+    'PHP_MD5' => '',
+    'PHP_VERSION' => '7.4.11',
+    'GPG_KEYS' => '42670A7FE4D0441C8E4632349E4FDC074A4EF02D 5A52880781F755608BF815FC910DEB46F53EA312',
+    'PHP_CPPFLAGS' => '-fstack-protector-strong -fpic 
+2021/04/22 14:43:22 [error] 24#24: *24 FastCGI sent in stderr: "%3Bs%3A13%3A%22__onlinebyweb%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D; Hm_lvt_a5ba55d17b5322fb01c370994f2c5a0a=1618303793,1618303876; Hm_lpvt_a5ba55d17b5322fb01c370994f2c5a0a=1618886249; __adminpin=6c268106d47d0f361ffadd00cd86b4aefa6d7b7d8d359abd57e15523b9607693a%3A2%3A%7Bi%3A0%3Bs%3A10%3A%22__adminpin%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D',
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_HOST' => 'api.o.com.cn',
+    'REDIRECT_STATUS' => '200',
+    'SERVER_NAME' => 'api.o.com.cn',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '172.18.0.5',
+    'REMOTE_PORT' => '63404',
+    'REMOTE_ADDR' => '172.18.0.1',
+    'SERVER_SOFTWARE' => 'nginx/1.19.2',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REQUEST_SCHEME' => 'http',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'DOCUMENT_ROOT' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web',
+    'DOCUMENT_URI' => '/admin/index.php',
+    'REQUEST_URI' => '/admin/index',
+    'SCRIPT_NAME' => '/admin/index.php',
+    'CONTENT_LENGTH' => '',
+    'CONTENT_TYPE' => '',
+    'REQUEST_METHOD' => 'GET',
+    'QUERY_STRING' => '',
+    'SCRIPT_FILENAME' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web/admin/index.php',
+    'FCGI_ROLE' => 'RESPONDER',
+    'PHP_SELF' => '/admin/index.php',
+    'REQUEST_TIME_FLOAT' => 1619102600.817074,
+    'REQUEST_TIME' => 1619102600,
+]" while reading upstream, client: 172.18.0.1, server: api.o.com.cn, request
+2021/04/22 14:44:14 [error] 24#24: *24 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/backend/web/index.php(28): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PHP_EXTRA_CONFIGURE_ARGS' => '--enable-fpm --with-fpm-user=www-data --with-fpm-group=www-data --disable-cgi',
+    'HOSTNAME' => '5b9a559bf06c',
+    'PHP_INI_DIR' => '/usr/local/etc/php',
+    'HOME' => '/var/www',
+    'PHP_LDFLAGS' => '-Wl,-O1 -pie',
+    'PHP_CFLAGS' => '-fstack-protector-strong -fpic -fpie -O2 -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64',
+    'PHP_MD5' => '',
+    'PHP_VERSION' => '7.4.11',
+    'GPG_KEYS' => '42670A7FE4D0441C8E4632349E4FDC074A4EF02D 5A52880781F755608BF815FC910DEB46F53EA312',
+    'PHP_CPPFLAGS' => '-fstack-protector-strong -fpic 
+2021/04/22 14:44:14 [error] 24#24: *24 FastCGI sent in stderr: "f4d2a%3A2%3A%7Bi%3A0%3Bs%3A8%3A%22__bakurl%22%3Bi%3A1%3Bs%3A30%3A%22http%3A%2F%2Fapi.o.com.cn%2Fvideo%2F5581%22%3B%7D; __pin=7b43d66c178e9b727f7022a9a785a2b901cb50cc4baff7b9600cee4597c8520aa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22__pin%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D; __onlinebyweb=77a06052474a16ec944825b8a690173e56dd1e33f4a7c10a93680df002299f87a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22__onlinebyweb%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D; Hm_lvt_a5ba55d17b5322fb01c370994f2c5a0a=1618303793,1618303876; Hm_lpvt_a5ba55d17b5322fb01c370994f2c5a0a=1618886249; __adminpin=6c268106d47d0f361ffadd00cd86b4aefa6d7b7d8d359abd57e15523b9607693a%3A2%3A%7Bi%3A0%3Bs%3A10%3A%22__adminpin%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D',
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://api.o.com.cn/admin/index',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_HOST' => 'api.o.com.cn',
+    'REDIRECT_STATUS' => '200',
+    'SERVER_NAME' => 'api.o.com.cn',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '172.18.0.5',
+    'REMOTE_PORT' => '63404',
+    'REMOTE_ADDR' => '172.18.0.1',
+    'SERVER_SOFTWARE' => 'nginx/1.19.2',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REQUEST_SCHEME' => 'http',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'DOCUMENT_ROOT' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web',
+    'DOCUMENT_URI' => '/admin/index.php',
+    'REQUEST_URI' => '/admin/five27/posts/index',
+    'SCRIPT_NAME' =
+2021/04/22 14:44:18 [error] 24#24: *30 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/backend/web/index.php(28): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PHP_EXTRA_CONFIGURE_ARGS' => '--enable-fpm --with-fpm-user=www-data --with-fpm-group=www-data --disable-cgi',
+    'HOSTNAME' => '5b9a559bf06c',
+    'PHP_INI_DIR' => '/usr/local/etc/php',
+    'HOME' => '/var/www',
+    'PHP_LDFLAGS' => '-Wl,-O1 -pie',
+    'PHP_CFLAGS' => '-fstack-protector-strong -fpic -fpie -O2 -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64',
+    'PHP_MD5' => '',
+    'PHP_VERSION' => '7.4.11',
+    'GPG_KEYS' => '42670A7FE4D0441C8E4632349E4FDC074A4EF02D 5A52880781F755608BF815FC910DEB46F53EA312',
+    'PHP_CPPFLAGS' => '-fstack-protector-strong -fpic 
+2021/04/22 14:44:18 [error] 24#24: *30 FastCGI sent in stderr: "8520aa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22__pin%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D; __onlinebyweb=77a06052474a16ec944825b8a690173e56dd1e33f4a7c10a93680df002299f87a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22__onlinebyweb%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D; Hm_lvt_a5ba55d17b5322fb01c370994f2c5a0a=1618303793,1618303876; Hm_lpvt_a5ba55d17b5322fb01c370994f2c5a0a=1618886249; __adminpin=6c268106d47d0f361ffadd00cd86b4aefa6d7b7d8d359abd57e15523b9607693a%3A2%3A%7Bi%3A0%3Bs%3A10%3A%22__adminpin%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D',
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://api.o.com.cn/admin/five27/posts/index',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_HOST' => 'api.o.com.cn',
+    'REDIRECT_STATUS' => '200',
+    'SERVER_NAME' => 'api.o.com.cn',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '172.18.0.5',
+    'REMOTE_PORT' => '63448',
+    'REMOTE_ADDR' => '172.18.0.1',
+    'SERVER_SOFTWARE' => 'nginx/1.19.2',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REQUEST_SCHEME' => 'http',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'DOCUMENT_ROOT' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web',
+    'DOCUMENT_URI' => '/admin/index.php',
+    'REQUEST_URI' => '/admin/five27/posts/create',
+    'SCRIPT_NAME' => '/admin/index.php',
+    'CONTENT_LENGTH' => '',
+    'CONTENT_TYPE' => '',
+    'REQUEST_METHOD' => 'GET',
+    'QUERY_STRING' => '',
+    'SCRIPT_FILENAME' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/fronten
+2021/04/22 14:44:20 [error] 24#24: *34 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/backend/web/index.php(28): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PHP_EXTRA_CONFIGURE_ARGS' => '--enable-fpm --with-fpm-user=www-data --with-fpm-group=www-data --disable-cgi',
+    'HOSTNAME' => '5b9a559bf06c',
+    'PHP_INI_DIR' => '/usr/local/etc/php',
+    'HOME' => '/var/www',
+    'PHP_LDFLAGS' => '-Wl,-O1 -pie',
+    'PHP_CFLAGS' => '-fstack-protector-strong -fpic -fpie -O2 -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64',
+    'PHP_MD5' => '',
+    'PHP_VERSION' => '7.4.11',
+    'GPG_KEYS' => '42670A7FE4D0441C8E4632349E4FDC074A4EF02D 5A52880781F755608BF815FC910DEB46F53EA312',
+    'PHP_CPPFLAGS' => '-fstack-protector-strong -fpic 
+2021/04/22 14:44:20 [error] 24#24: *34 FastCGI sent in stderr: "f4d2a%3A2%3A%7Bi%3A0%3Bs%3A8%3A%22__bakurl%22%3Bi%3A1%3Bs%3A30%3A%22http%3A%2F%2Fapi.o.com.cn%2Fvideo%2F5581%22%3B%7D; __pin=7b43d66c178e9b727f7022a9a785a2b901cb50cc4baff7b9600cee4597c8520aa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22__pin%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D; __onlinebyweb=77a06052474a16ec944825b8a690173e56dd1e33f4a7c10a93680df002299f87a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22__onlinebyweb%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D; Hm_lvt_a5ba55d17b5322fb01c370994f2c5a0a=1618303793,1618303876; Hm_lpvt_a5ba55d17b5322fb01c370994f2c5a0a=1618886249; __adminpin=6c268106d47d0f361ffadd00cd86b4aefa6d7b7d8d359abd57e15523b9607693a%3A2%3A%7Bi%3A0%3Bs%3A10%3A%22__adminpin%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D',
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://api.o.com.cn/admin/index',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_HOST' => 'api.o.com.cn',
+    'REDIRECT_STATUS' => '200',
+    'SERVER_NAME' => 'api.o.com.cn',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '172.18.0.5',
+    'REMOTE_PORT' => '63468',
+    'REMOTE_ADDR' => '172.18.0.1',
+    'SERVER_SOFTWARE' => 'nginx/1.19.2',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REQUEST_SCHEME' => 'http',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'DOCUMENT_ROOT' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web',
+    'DOCUMENT_URI' => '/admin/index.php',
+    'REQUEST_URI' => '/admin/five27/posts/index',
+    'SCRIPT_NAME' => '/admin/index.php',
+    'CONTENT_LENGTH
+2021/04/22 14:47:13 [error] 24#24: *39 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/backend/web/index.php(28): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PHP_EXTRA_CONFIGURE_ARGS' => '--enable-fpm --with-fpm-user=www-data --with-fpm-group=www-data --disable-cgi',
+    'HOSTNAME' => '5b9a559bf06c',
+    'PHP_INI_DIR' => '/usr/local/etc/php',
+    'HOME' => '/var/www',
+    'PHP_LDFLAGS' => '-Wl,-O1 -pie',
+    'PHP_CFLAGS' => '-fstack-protector-strong -fpic -fpie -O2 -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64',
+    'PHP_MD5' => '',
+    'PHP_VERSION' => '7.4.11',
+    'GPG_KEYS' => '42670A7FE4D0441C8E4632349E4FDC074A4EF02D 5A52880781F755608BF815FC910DEB46F53EA312',
+    'PHP_CPPFLAGS' => '-fstack-protector-strong -fpic 
+2021/04/22 14:47:13 [error] 24#24: *39 FastCGI sent in stderr: "%3Bs%3A13%3A%22__onlinebyweb%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D; Hm_lvt_a5ba55d17b5322fb01c370994f2c5a0a=1618303793,1618303876; Hm_lpvt_a5ba55d17b5322fb01c370994f2c5a0a=1618886249; __adminpin=6c268106d47d0f361ffadd00cd86b4aefa6d7b7d8d359abd57e15523b9607693a%3A2%3A%7Bi%3A0%3Bs%3A10%3A%22__adminpin%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D',
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_HOST' => 'api.o.com.cn',
+    'REDIRECT_STATUS' => '200',
+    'SERVER_NAME' => 'api.o.com.cn',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '172.18.0.5',
+    'REMOTE_PORT' => '63494',
+    'REMOTE_ADDR' => '172.18.0.1',
+    'SERVER_SOFTWARE' => 'nginx/1.19.2',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REQUEST_SCHEME' => 'http',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'DOCUMENT_ROOT' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web',
+    'DOCUMENT_URI' => '/admin/index.php',
+    'REQUEST_URI' => '/admin/index',
+    'SCRIPT_NAME' => '/admin/index.php',
+    'CONTENT_LENGTH' => '',
+    'CONTENT_TYPE' => '',
+    'REQUEST_METHOD' => 'GET',
+    'QUERY_STRING' => '',
+    'SCRIPT_FILENAME' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web/admin/index.php',
+    'FCGI_ROLE' => 'RESPONDER',
+    'PHP_SELF' => '/admin/index.php',
+    'REQUEST_TIME_FLOAT' => 1619102831.063629,
+    'REQUEST_TIME' => 1619102831,
+]" while reading upstream, client: 172.18.0.1, server: api.o.com.cn, request
+2021/04/22 14:47:22 [error] 24#24: *39 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/backend/web/index.php(28): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PHP_EXTRA_CONFIGURE_ARGS' => '--enable-fpm --with-fpm-user=www-data --with-fpm-group=www-data --disable-cgi',
+    'HOSTNAME' => '5b9a559bf06c',
+    'PHP_INI_DIR' => '/usr/local/etc/php',
+    'HOME' => '/var/www',
+    'PHP_LDFLAGS' => '-Wl,-O1 -pie',
+    'PHP_CFLAGS' => '-fstack-protector-strong -fpic -fpie -O2 -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64',
+    'PHP_MD5' => '',
+    'PHP_VERSION' => '7.4.11',
+    'GPG_KEYS' => '42670A7FE4D0441C8E4632349E4FDC074A4EF02D 5A52880781F755608BF815FC910DEB46F53EA312',
+    'PHP_CPPFLAGS' => '-fstack-protector-strong -fpic 
+2021/04/22 14:47:22 [error] 24#24: *39 FastCGI sent in stderr: "_pin=7b43d66c178e9b727f7022a9a785a2b901cb50cc4baff7b9600cee4597c8520aa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22__pin%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D; __onlinebyweb=77a06052474a16ec944825b8a690173e56dd1e33f4a7c10a93680df002299f87a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22__onlinebyweb%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D; Hm_lvt_a5ba55d17b5322fb01c370994f2c5a0a=1618303793,1618303876; Hm_lpvt_a5ba55d17b5322fb01c370994f2c5a0a=1618886249; __adminpin=6c268106d47d0f361ffadd00cd86b4aefa6d7b7d8d359abd57e15523b9607693a%3A2%3A%7Bi%3A0%3Bs%3A10%3A%22__adminpin%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D',
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://api.o.com.cn/admin/index',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_HOST' => 'api.o.com.cn',
+    'REDIRECT_STATUS' => '200',
+    'SERVER_NAME' => 'api.o.com.cn',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '172.18.0.5',
+    'REMOTE_PORT' => '63494',
+    'REMOTE_ADDR' => '172.18.0.1',
+    'SERVER_SOFTWARE' => 'nginx/1.19.2',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REQUEST_SCHEME' => 'http',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'DOCUMENT_ROOT' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web',
+    'DOCUMENT_URI' => '/admin/index.php',
+    'REQUEST_URI' => '/admin/index-setting/index',
+    'SCRIPT_NAME' => '/admin/index.php',
+    'CONTENT_LENGTH' => '',
+    'CONTENT_TYPE' => '',
+    'REQUEST_METHOD' => 'GET',
+    'QUERY_STRING' => '',
+    'SCRIPT_FILENAME' => '/
+2021/04/22 14:47:25 [error] 24#24: *38 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/backend/web/index.php(28): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PHP_EXTRA_CONFIGURE_ARGS' => '--enable-fpm --with-fpm-user=www-data --with-fpm-group=www-data --disable-cgi',
+    'HOSTNAME' => '5b9a559bf06c',
+    'PHP_INI_DIR' => '/usr/local/etc/php',
+    'HOME' => '/var/www',
+    'PHP_LDFLAGS' => '-Wl,-O1 -pie',
+    'PHP_CFLAGS' => '-fstack-protector-strong -fpic -fpie -O2 -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64',
+    'PHP_MD5' => '',
+    'PHP_VERSION' => '7.4.11',
+    'GPG_KEYS' => '42670A7FE4D0441C8E4632349E4FDC074A4EF02D 5A52880781F755608BF815FC910DEB46F53EA312',
+    'PHP_CPPFLAGS' => '-fstack-protector-strong -fpic 
+2021/04/22 14:47:25 [error] 24#24: *38 FastCGI sent in stderr: "rcgk8k9s6vm; _csrf=f20118e58f0fee10e85d14d2526d52de5c9cee48633f8170fe971ded2a388e77a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22QVIG85pzRY3mTq5_R8Y3jCcnnn4t3l7i%22%3B%7D; __bakurl=e11ea08376161faa0147320657ad4f63d91bf3bb073311ceac7792888734f4d2a%3A2%3A%7Bi%3A0%3Bs%3A8%3A%22__bakurl%22%3Bi%3A1%3Bs%3A30%3A%22http%3A%2F%2Fapi.o.com.cn%2Fvideo%2F5581%22%3B%7D; __pin=7b43d66c178e9b727f7022a9a785a2b901cb50cc4baff7b9600cee4597c8520aa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22__pin%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D; __onlinebyweb=77a06052474a16ec944825b8a690173e56dd1e33f4a7c10a93680df002299f87a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22__onlinebyweb%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D; Hm_lvt_a5ba55d17b5322fb01c370994f2c5a0a=1618303793,1618303876; Hm_lpvt_a5ba55d17b5322fb01c370994f2c5a0a=1618886249; __adminpin=6c268106d47d0f361ffadd00cd86b4aefa6d7b7d8d359abd57e15523b9607693a%3A2%3A%7Bi%3A0%3Bs%3A10%3A%22__adminpin%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D',
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://api.o.com.cn/admin/index-setting/index',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_HOST' => 'api.o.com.cn',
+    'REDIRECT_STATUS' => '200',
+    'SERVER_NAME' => 'api.o.com.cn',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '172.18.0.5',
+    'REMOTE_PORT' => '63492',
+    'REMOTE_ADDR' => '172.18.0.1',
+    'SERVER_SOFTWARE' => 'nginx/1.19.2',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REQUEST_SCHEME' => 'http',
+   
+2021/04/22 14:47:28 [error] 24#24: *38 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/backend/web/index.php(28): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PHP_EXTRA_CONFIGURE_ARGS' => '--enable-fpm --with-fpm-user=www-data --with-fpm-group=www-data --disable-cgi',
+    'HOSTNAME' => '5b9a559bf06c',
+    'PHP_INI_DIR' => '/usr/local/etc/php',
+    'HOME' => '/var/www',
+    'PHP_LDFLAGS' => '-Wl,-O1 -pie',
+    'PHP_CFLAGS' => '-fstack-protector-strong -fpic -fpie -O2 -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64',
+    'PHP_MD5' => '',
+    'PHP_VERSION' => '7.4.11',
+    'GPG_KEYS' => '42670A7FE4D0441C8E4632349E4FDC074A4EF02D 5A52880781F755608BF815FC910DEB46F53EA312',
+    'PHP_CPPFLAGS' => '-fstack-protector-strong -fpic 
+2021/04/22 14:47:28 [error] 24#24: *38 FastCGI sent in stderr: "3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D; __onlinebyweb=77a06052474a16ec944825b8a690173e56dd1e33f4a7c10a93680df002299f87a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22__onlinebyweb%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D; Hm_lvt_a5ba55d17b5322fb01c370994f2c5a0a=1618303793,1618303876; Hm_lpvt_a5ba55d17b5322fb01c370994f2c5a0a=1618886249; __adminpin=6c268106d47d0f361ffadd00cd86b4aefa6d7b7d8d359abd57e15523b9607693a%3A2%3A%7Bi%3A0%3Bs%3A10%3A%22__adminpin%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D',
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://api.o.com.cn/admin/doctor/index',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_HOST' => 'api.o.com.cn',
+    'REDIRECT_STATUS' => '200',
+    'SERVER_NAME' => 'api.o.com.cn',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '172.18.0.5',
+    'REMOTE_PORT' => '63492',
+    'REMOTE_ADDR' => '172.18.0.1',
+    'SERVER_SOFTWARE' => 'nginx/1.19.2',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REQUEST_SCHEME' => 'http',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'DOCUMENT_ROOT' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web',
+    'DOCUMENT_URI' => '/admin/index.php',
+    'REQUEST_URI' => '/admin/news/list',
+    'SCRIPT_NAME' => '/admin/index.php',
+    'CONTENT_LENGTH' => '',
+    'CONTENT_TYPE' => '',
+    'REQUEST_METHOD' => 'GET',
+    'QUERY_STRING' => '',
+    'SCRIPT_FILENAME' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web/admin/index.php',
+    'FCGI_ROLE' => 'RESPONDER',
+    'PHP_SELF' =
+2021/04/23 02:13:15 [error] 24#24: *55 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/backend/web/index.php(28): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PHP_EXTRA_CONFIGURE_ARGS' => '--enable-fpm --with-fpm-user=www-data --with-fpm-group=www-data --disable-cgi',
+    'HOSTNAME' => '5b9a559bf06c',
+    'PHP_INI_DIR' => '/usr/local/etc/php',
+    'HOME' => '/var/www',
+    'PHP_LDFLAGS' => '-Wl,-O1 -pie',
+    'PHP_CFLAGS' => '-fstack-protector-strong -fpic -fpie -O2 -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64',
+    'PHP_MD5' => '',
+    'PHP_VERSION' => '7.4.11',
+    'GPG_KEYS' => '42670A7FE4D0441C8E4632349E4FDC074A4EF02D 5A52880781F755608BF815FC910DEB46F53EA312',
+    'PHP_CPPFLAGS' => '-fstack-protector-strong -fpic 
+2021/04/23 02:13:15 [error] 24#24: *55 FastCGI sent in stderr: "3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D; __onlinebyweb=77a06052474a16ec944825b8a690173e56dd1e33f4a7c10a93680df002299f87a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22__onlinebyweb%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D; Hm_lvt_a5ba55d17b5322fb01c370994f2c5a0a=1618303793,1618303876; Hm_lpvt_a5ba55d17b5322fb01c370994f2c5a0a=1618886249; __adminpin=6c268106d47d0f361ffadd00cd86b4aefa6d7b7d8d359abd57e15523b9607693a%3A2%3A%7Bi%3A0%3Bs%3A10%3A%22__adminpin%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D',
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://api.o.com.cn/admin/doctor/index',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CACHE_CONTROL' => 'max-age=0',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_HOST' => 'api.o.com.cn',
+    'REDIRECT_STATUS' => '200',
+    'SERVER_NAME' => 'api.o.com.cn',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '172.18.0.5',
+    'REMOTE_PORT' => '63586',
+    'REMOTE_ADDR' => '172.18.0.1',
+    'SERVER_SOFTWARE' => 'nginx/1.19.2',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REQUEST_SCHEME' => 'http',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'DOCUMENT_ROOT' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web',
+    'DOCUMENT_URI' => '/admin/index.php',
+    'REQUEST_URI' => '/admin/news/list',
+    'SCRIPT_NAME' => '/admin/index.php',
+    'CONTENT_LENGTH' => '',
+    'CONTENT_TYPE' => '',
+    'REQUEST_METHOD' => 'GET',
+    'QUERY_STRING' => '',
+    'SCRIPT_FILENAME' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web/admin/index.php',
+2021/05/07 09:05:48 [error] 23#23: *414 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/backend/web/index.php(28): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PHP_EXTRA_CONFIGURE_ARGS' => '--enable-fpm --with-fpm-user=www-data --with-fpm-group=www-data --disable-cgi',
+    'HOSTNAME' => 'b8660ffff2cd',
+    'PHP_INI_DIR' => '/usr/local/etc/php',
+    'HOME' => '/var/www',
+    'PHP_LDFLAGS' => '-Wl,-O1 -pie',
+    'PHP_CFLAGS' => '-fstack-protector-strong -fpic -fpie -O2 -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64',
+    'PHP_VERSION' => '7.4.16',
+    'GPG_KEYS' => '42670A7FE4D0441C8E4632349E4FDC074A4EF02D 5A52880781F755608BF815FC910DEB46F53EA312',
+    'PHP_CPPFLAGS' => '-fstack-protector-strong -fpic -fpie -O2 -D_LARGEFI
+2021/05/07 09:05:48 [error] 23#23: *414 FastCGI sent in stderr: "nebyweb%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D; Hm_lvt_a5ba55d17b5322fb01c370994f2c5a0a=1618303793,1618303876; Hm_lpvt_a5ba55d17b5322fb01c370994f2c5a0a=1618886249; __adminpin=6c268106d47d0f361ffadd00cd86b4aefa6d7b7d8d359abd57e15523b9607693a%3A2%3A%7Bi%3A0%3Bs%3A10%3A%22__adminpin%22%3Bi%3A1%3Bs%3A37%3A%22orth_76bbafa884fe636a70831e30e0cda141%22%3B%7D',
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate',
+    'HTTP_REFERER' => 'http://api.o.com.cn/',
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_HOST' => 'api.o.com.cn',
+    'REDIRECT_STATUS' => '200',
+    'SERVER_NAME' => 'api.o.com.cn',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '172.18.0.2',
+    'REMOTE_PORT' => '59036',
+    'REMOTE_ADDR' => '172.18.0.1',
+    'SERVER_SOFTWARE' => 'nginx/1.19.2',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REQUEST_SCHEME' => 'http',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'DOCUMENT_ROOT' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web',
+    'DOCUMENT_URI' => '/admin/index.php',
+    'REQUEST_URI' => '/admin/index',
+    'SCRIPT_NAME' => '/admin/index.php',
+    'CONTENT_LENGTH' => '',
+    'CONTENT_TYPE' => '',
+    'REQUEST_METHOD' => 'GET',
+    'QUERY_STRING' => '',
+    'SCRIPT_FILENAME' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web/admin/index.php',
+    'FCGI_ROLE' => 'RESPONDER',
+    'PHP_SELF' => '/admin/index.php',
+    'REQUEST_TIME_FLOAT' => 1620378346.677798,
+    'REQUEST_TIME' => 1620378346,
+]" while reading upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET /admin/in
+2021/05/07 09:05:56 [error] 23#23: *426 FastCGI sent in stderr: "PHP message: An Error occurred while handling another error:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/ErrorHandler.php(136): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/ErrorHandler.php(135): yii\web\ErrorHandler->renderException()
+#3 [internal function]: yii\base\ErrorHandler->handleException()
+#4 {main}
+Previous exception:
+yii\web\HeadersAlreadySentException: Headers already sent in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/View.php on line 182. in /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php:366
+Stack trace:
+#0 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/web/Response.php(339): yii\web\Response->sendHeaders()
+#1 /data/wwwroot/php/yii2/api.orthonline.com.cn/vendor/yiisoft/yii2/base/Application.php(392): yii\web\Response->send()
+#2 /data/wwwroot/php/yii2/api.orthonline.com.cn/backend/web/index.php(28): yii\base\Application->run()
+#3 {main}
+$_SERVER = [
+    'PHP_EXTRA_CONFIGURE_ARGS' => '--enable-fpm --with-fpm-user=www-data --with-fpm-group=www-data --disable-cgi',
+    'HOSTNAME' => 'b8660ffff2cd',
+    'PHP_INI_DIR' => '/usr/local/etc/php',
+    'HOME' => '/var/www',
+    'PHP_LDFLAGS' => '-Wl,-O1 -pie',
+    'PHP_CFLAGS' => '-fstack-protector-strong -fpic -fpie -O2 -D_LARGEFILE_SOURCE -D_FILE_OFFSET_BITS=64',
+    'PHP_VERSION' => '7.4.16',
+    'GPG_KEYS' => '42670A7FE4D0441C8E4632349E4FDC074A4EF02D 5A52880781F755608BF815FC910DEB46F53EA312',
+    'PHP_CPPFLAGS' => '-fstack-protector-strong -fpic -fpie -O2 -D_LARGEFI
+2021/05/07 09:05:56 [error] 23#23: *426 FastCGI sent in stderr: "AGENT' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36',
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+    'HTTP_CONNECTION' => 'keep-alive',
+    'HTTP_HOST' => 'api.o.com.cn',
+    'REDIRECT_STATUS' => '200',
+    'SERVER_NAME' => 'api.o.com.cn',
+    'SERVER_PORT' => '80',
+    'SERVER_ADDR' => '172.18.0.2',
+    'REMOTE_PORT' => '59112',
+    'REMOTE_ADDR' => '172.18.0.1',
+    'SERVER_SOFTWARE' => 'nginx/1.19.2',
+    'GATEWAY_INTERFACE' => 'CGI/1.1',
+    'REQUEST_SCHEME' => 'http',
+    'SERVER_PROTOCOL' => 'HTTP/1.1',
+    'DOCUMENT_ROOT' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web',
+    'DOCUMENT_URI' => '/admin/index.php',
+    'REQUEST_URI' => '/admin/special-topic/index',
+    'SCRIPT_NAME' => '/admin/index.php',
+    'CONTENT_LENGTH' => '',
+    'CONTENT_TYPE' => '',
+    'REQUEST_METHOD' => 'GET',
+    'QUERY_STRING' => '',
+    'SCRIPT_FILENAME' => '/data/wwwroot/php/yii2/api.orthonline.com.cn/frontend/web/admin/index.php',
+    'FCGI_ROLE' => 'RESPONDER',
+    'PHP_SELF' => '/admin/index.php',
+    'REQUEST_TIME_FLOAT' => 1620378354.6743,
+    'REQUEST_TIME' => 1620378354,
+]" while reading upstream, client: 172.18.0.1, server: api.o.com.cn, request: "GET /admin/special-topic/index HTTP/1.1", upstream: "fastcgi://172.18.0.8:9000", host: "api.o.com.cn", referrer: "http://api.o.com.cn/admin/index"

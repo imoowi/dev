@@ -1,0 +1,1 @@
+2021/04/12 12:08:32 [error] 24#24: *75 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 192.168.0.1, server: rpc.i.com, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://192.168.0.5:9000", host: "rpc.i.com", referrer: "http://rpc.i.com/"

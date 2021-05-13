@@ -1,0 +1,2 @@
+2021/04/25 10:28:10 [error] 23#23: *15 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.18.0.1, server: wot.i.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "wot.i.com"
+2021/04/25 10:29:35 [error] 23#23: *15 upstream timed out (110: Connection timed out) while reading response header from upstream, client: 172.18.0.1, server: wot.i.com, request: "GET / HTTP/1.1", upstream: "fastcgi://172.18.0.7:9000", host: "wot.i.com"
